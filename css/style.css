@@ -1,0 +1,30 @@
+:root {
+  --clr-blue-200: hsl(229, 23%, 23%);
+  --clr-green-180: hsl(85, 75%, 39%);
+  --clr-blue-150: hsl(227, 10%, 46%);
+  --clr-blue-80: hsl(0, 0%, 59%);
+  --font-Kumbh: font-family: 'Kumbh Sans', sans-serif;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    font-family: var(--font-Kumbh);
+    display: grid;
+    place-items: center;
+    background-color: rgb(47, 164, 168);
+    background-image: url("/assets/images/bg-pattern-bottom.svg"), url("/assets/images/bg-pattern-top.svg");
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-position: top -200% left -20%,bottom -200% right -20%;
+}
