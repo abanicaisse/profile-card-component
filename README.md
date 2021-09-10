@@ -22,8 +22,10 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 ### Screenshot
 
 1. Desktop Design
+![FEM-profile-card-component(1)](https://user-images.githubusercontent.com/84383548/132904309-21d75c69-12e6-44b6-b9a4-8f2afd206d11.png)
 
-1. Mobile Design
+1. Mobile Design <br>
+![FEM-profile-card-component(2)](https://user-images.githubusercontent.com/84383548/132904323-5bc4a4bc-894f-45b7-a23f-ac72be2089c2.png)
 
 ### Links
 
